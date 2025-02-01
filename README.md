@@ -8,6 +8,6 @@ A dynamic website to showcase upcoming events organized by the Mozilla Firefox C
 => Responsive Design: Optimized for both desktop and mobile devices.
 => Interactive UI: Smooth animations and transitions for a better user experience.
 
-### Tech Stack:
+## Tech Stack:
 => Frontend: HTML, CSS
 => Scripting: JavaScript, TypeScript
