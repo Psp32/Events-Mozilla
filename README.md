@@ -4,12 +4,12 @@ A dynamic website to showcase upcoming events organized by the Mozilla Firefox C
 
 ## Features:
 
-=> Event Listings: Displays upcoming Mozilla Firefox Club events with details like date, time, and description.
-=> Search Functionality: Easily search for specific events.
-=> Responsive Design: Optimized for both desktop and mobile devices.
-=> Interactive UI: Smooth animations and transitions for a better user experience.
+1. Event Listings: Displays upcoming Mozilla Firefox Club events with details like date, time, and description.
+2. Search Functionality: Easily search for specific events.
+3. Responsive Design: Optimized for both desktop and mobile devices.
+4. Interactive UI: Smooth animations and transitions for a better user experience.
 
 ## Tech Stack:
 
-=> Frontend: HTML, CSS
-=> Scripting: JavaScript, TypeScript
+1. Frontend: HTML, CSS
+2. Scripting: JavaScript, TypeScript
