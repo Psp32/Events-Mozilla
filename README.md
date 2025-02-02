@@ -1,4 +1,4 @@
-# Events Mozilla
+# Events-Mozilla
 
 A dynamic website to showcase upcoming events organized by the Mozilla Firefox Club. Built with HTML, CSS, JavaScript, and TypeScript, this project aims to provide an engaging and informative platform for club members and event enthusiasts.
 
